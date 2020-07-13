@@ -72,6 +72,5 @@ def main():
     draw_landmarks(args.input, vis_lms)
 
 
-
 if __name__ == '__main__':
     main()
